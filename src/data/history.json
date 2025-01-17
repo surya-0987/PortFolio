@@ -1,0 +1,26 @@
+[
+  {
+    "role": "B.Tech",
+    "institute": "PARUL UNIVERSITY",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["7.76CGPA"],
+    "imageSrc": "history/parul.png"
+  },
+  {
+    "role": "XII Standard",
+    "institute": "SRI CHAITANYA JUNIOR KALASALA",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["98.4%"],
+    "imageSrc": "history/college.jpeg"
+  },
+  {
+    "role": "Xth Standard",
+    "institute": "SRI CHANDRA TECHNO SCHOOL",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["9.8 CGPA"],
+    "imageSrc": "history/school.jpg"
+  }
+]

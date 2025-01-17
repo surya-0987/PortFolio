@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/netflix.png",
+    "description": "It is Clone of Netflix Home page.",
+    "skills": [],
+    "demo": "https://netflix-clone-psi-one-68.vercel.app/ ",
+    "source": "https://github.com/surya-0987/Netflix_clone.git"
+  },
+  {
+    "title": "Simon Game",
+    "imageSrc": "projects/Simon_game.jpg",
+    "description": "Simons Says game",
+    "skills": [],
+    "demo": "https://simon-game-rosy-two.vercel.app/ ",
+    "source": "https://github.com/surya-0987/Simon_game"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/Password.png",
+    "description": "It generates a Password using letters , Symbols,  Numbers",
+    "skills": [],
+    "demo": "https://github.com/surya-0987/Password_generator ",
+    "source": "https://github.com/surya-0987/Password_generator"
+  }
+]
