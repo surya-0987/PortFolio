@@ -1,8 +1,8 @@
 [
   {
-    "title": "Netflix Clone",
+    "title": "Netflix UI Clone",
     "imageSrc": "projects/netflix.png",
-    "description": "It is Clone of Netflix Home page.",
+    "description": "It is UI Clone of Netflix Home page.",
     "skills": [],
     "demo": "https://netflix-clone-psi-one-68.vercel.app/ ",
     "source": "https://github.com/surya-0987/Netflix_clone.git"
