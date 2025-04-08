@@ -24,16 +24,16 @@ export const About = () => {
               </p> */}
             </div>
           </li>
-          {/* <li className={styles.aboutItem}>
+          <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>
+              <h3>Python Developer</h3>
+              {/* <p>
                 I have experience developing fast and optimised back-end systems
                 and APIs
-              </p>
+              </p> */}
             </div>
-          </li> */}
+          </li>
         </ul>
       </div>
     </section>

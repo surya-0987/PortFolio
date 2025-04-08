@@ -17,10 +17,25 @@
   },
   {
     "title": "Password Generator",
-    "imageSrc": "projects/Password.png",
+    "imageSrc": "projects/password.png",
     "description": "It generates a Password using letters , Symbols,  Numbers",
     "skills": [],
     "demo": "https://github.com/surya-0987/Password_generator ",
     "source": "https://github.com/surya-0987/Password_generator"
+  },
+  {
+    "title": "Python Voice Assistant",
+    "imageSrc": "projects/voice_assistant.png",
+    "description": "Voice Assistant.",
+    "skills": [],
+    "source": "https://github.com/surya-0987/Python_Voice_Assistant"
+  },
+  {
+    "title": "Hyper Type",
+    "imageSrc": "projects/hypertype.png",
+    "description": "Typing Speed tester.",
+    "skills": [],
+    "demo": "https://simon-game-rosy-two.vercel.app/ ",
+    "source": "https://github.com/surya-0987/React-project"
   }
 ]
