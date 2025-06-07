@@ -35,5 +35,13 @@
   {
     "title": "Java",
     "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "PyTest",
+    "imageSrc": "skills/Pytest.png"
+  },
+  {
+    "title": "Selenium",
+    "imageSrc": "skills/Selenium.png"
   }
 ]
